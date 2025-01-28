@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaseem05
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Machine learning
 
 <!---
 jaseem05/jaseem05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
